@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+python-dotenv
+pydantic
+fastapi
+uvicorn
+python-multipart
+markdown
+pydantic-settings
