@@ -61,7 +61,3 @@ This project is built with:
 - Groq API for Llama-4-Scout model access
 - FastAPI for the REST API
 - Pydantic for data validation
-
-## License
-
-MIT License 
